@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img margin="auto" display="block" src="https://github.com/GianCHerrera/GianCherrera/blob/main/Readme.gif">
+<img align="center" src="https://github.com/GianCHerrera/GianCherrera/blob/main/Readme.gif">
 
 
 ### ¿Who am I? 🤓
