@@ -9,6 +9,8 @@ Hey! I'm Gian Herrera, Full-Stack developer always interested in learning new te
 
 
 ### ¿Which technologies do I work with?  🖥
-> ✧ FrontEnd: HTML5 | CSS3 | Javascript | React.js | Hooks | Redux | React - Router |
-> ✧ Back-End: NodeJS | Express | Javascript | Sequelize |
-> ✧ Bases de Datos: PostgresQL | Mysql | OracleDB | MngoDB | RiakDB |
+```
+✧ FrontEnd: HTML5 | CSS3 | Javascript | React.js | Hooks | Redux | React - Router |
+✧ Back-End: NodeJS | Express | Javascript | Sequelize |
+✧ Bases de Datos: PostgresQL | Mysql | OracleDB | MngoDB | RiakDB |
+```
