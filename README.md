@@ -10,11 +10,11 @@
 
 
 ### Which technologies do I work with?  🖥
-```
-✧ FrontEnd: HTML5 | CSS3 | Javascript | React.js | Hooks | Redux | React - Router |
-✧ Back-End: NodeJS | Express | Javascript | Sequelize |
-✧ Bases de Datos: PostgresQL | Mysql | OracleDB | MngoDB | RiakDB |
-```
+
+<p> ✧ FrontEnd: HTML5 | CSS3 | Javascript | React.js | Hooks | Redux | React - Router | </p>
+<p> ✧ Back-End: NodeJS | Express | Javascript | Sequelize | </p>
+<p> ✧ Bases de Datos: PostgresQL | Mysql | OracleDB | MngoDB | RiakDB | </p>
+
 
 
 ### How to reach me?
