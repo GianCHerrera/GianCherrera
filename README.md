@@ -1,19 +1,14 @@
 ### Hi there 👋
 
 
-![image](https://github.com/GianCHerrera/GianCherrera/blob/main/GifReadme.gif)
+![image](https://github.com/GianCHerrera/GianCherrera/blob/main/Readme.gif)
 
-<!--
-**GianCHerrera/GianCherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ¿Who am I? 🤓
+Hey! I'm Gian Herrera, Full-Stack developer always interested in learning new technologies and fan of teamwork.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ¿Which technologies do I work with?  🖥
+✧ FrontEnd: HTML5 | CSS3 | Javascript | React.js | Hooks | Redux | React - Router |
+✧ Back-End: NodeJS | Express | Javascript | Sequelize |
+✧ Bases de Datos: PostgresQL | Mysql | OracleDB | MngoDB | RiakDB |
