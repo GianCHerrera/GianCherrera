@@ -4,7 +4,7 @@
 <img width="100%"  src="https://github.com/GianCHerrera/GianCherrera/blob/main/Readme.gif">
 
 
-### ¿Who am I? 🤓 
+### Who am I? 🤓 
 
 <p> Hey! I'm Gian Herrera, Full-Stack developer always interested in learning new technologies and fan of teamwork </p>
 
