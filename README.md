@@ -21,4 +21,4 @@
  ### How to reach me?
 <p> ✧  LinkedIn: <a href="www.linkedin.com/in/gian-c-herrera">Gian Herrera</a> </p>
 <p> ✧  Correo: <a href="mailto:ghianherrera@live.com">ghianherrera@live.com </a></p>
-<p> ✧  WhatsApp: <a href="https://wa.me/+573193219951"> Click Aquí </a> </p>
+<p> ✧  WhatsApp: <a href="https://wa.me/+573193219951">(+57) 319 321 9951 </a> </p>
