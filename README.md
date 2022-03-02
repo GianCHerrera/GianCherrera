@@ -4,7 +4,7 @@
 <img width="100%"  src="https://github.com/GianCHerrera/GianCherrera/blob/main/Readme.gif">
 
 
-### ¿Who am I? 🤓 
+### Who am I? 🤓 
 
 <p> Hey! I'm Gian Herrera, Full-Stack developer always interested in learning new technologies and fan of teamwork </p>
 
@@ -21,4 +21,6 @@
  ### How to reach me?
 <p> ✧  LinkedIn: <a href="www.linkedin.com/in/gian-c-herrera">Gian Herrera</a> </p>
 <p> ✧  Correo: <a href="mailto:ghianherrera@live.com">ghianherrera@live.com </a></p>
-<p> ✧  WhatsApp: <a href="https://wa.me/+573193219951">(+57) 319 321 9951 </a> </p>
+
+<p> ✧  WhatsApp: <a href="https://wa.link/mj8wx1"> Click Aquí </a> </p>
+>>>>>>> 2fc2768a5af598d198bd188fc530d2ceef33edf7
