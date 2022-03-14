@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
-<img width="100%"  src="https://github.com/GianCHerrera/GianCherrera/blob/main/Readme.gif">
+<img width="100%"  src="https://github.com/GianCHerrera/GianCherrera/blob/main/i'm%20Gian%20Herrera.gif">
 
 
 ### Who am I? 🤓 
