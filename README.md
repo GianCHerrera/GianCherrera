@@ -12,7 +12,7 @@
 
  ### Which technologies do I work with?  🖥
 
-<p> ✧ Automation: Selenium | Appium | Java | Python </p>
+<p> ✧ Automation: Selenium | Appium | Java | Python | BDD | TDD | Jenkins | Cucumber | TestNG | </p>
 <p> ✧ FrontEnd: HTML5 | CSS3 | Javascript | React.js | Hooks | Redux | React - Router | React Native </p>
 <p> ✧ Back-End: NodeJS | Express | Javascript | Sequelize | </p>
 <p> ✧ Bases de Datos: PostgresQL | Mysql | OracleDB | MngoDB | RiakDB | </p>
